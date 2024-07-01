@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**godkeyos/godkeyos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2> # about-me </h2>
+
+- 💗 12y/o - Lifetime Enjoyer
+
+```<h2> # Socials </h2>
+https://www.youtube.com/@keyossoftboi
+https://discord.com/user/1224352196124999711
+```
+```py
+import godkeyos as skidder
+
+class Coding(keyos):
+    def __init__(self):
+        skid.__init__()
+    
+    def languages(self):
+        self.expert = ("Python", "HTML", "CSS")
+
+    def interests(self):
+        self.enviroment = ("VSCode")
+        self.specialities = ("Obfuscation", "Scraping")     
+
+    def LikesToDo(self):
+        self.fivem = ("Triggers", "Dump")
+        self.discord = ("GrabToken", "Raiding", "Troll)
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1224352196124999711)](https://discord.com/users/1224352196124999711)
