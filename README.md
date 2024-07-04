@@ -1,6 +1,9 @@
 
 
 
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-1/1224352196124999711.png">
+</p>
 
 <h2> # about-me </h2>
 
