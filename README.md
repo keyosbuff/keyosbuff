@@ -1,18 +1,15 @@
 
 
-
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-1/1224352196124999711.png">
-</p>
-
 <h2> # about-me </h2>
 
 - 💗 12y/o - Lifetime Enjoyer
 
-```<h2> # Socials </h2>
-https://www.youtube.com/@keyossoftboi
-https://discord.com/user/1224352196124999711
-```
+<h2># Socials</h2>
+<ul>
+  <li><a href="https://www.youtube.com/@keyossoftboi" target="_blank">YouTube Channel</a></li>
+  <li><a href="https://discord.com/user/1224352196124999711" target="_blank">Discord Profile</a></li>
+</ul>
+
 ```py
 import godkeyos as skidder
 
@@ -47,5 +44,8 @@ class Coding(keyos):
 
 
 
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1224352196124999711)](https://discord.com/users/1224352196124999711)
+<p align="center">
+    <a href="https://discord.com/users/1224352196124999711">
+        <img src="https://lanyard.cnrad.dev/api/1224352196124999711" alt="Discord Presence">
+    </a>
+</p>
