@@ -45,7 +45,7 @@ class Coding(keyos):
 
 
 <p align="center">
-    <a href="https://discord.com/users/1224352196124999711">
-        <img src="https://lanyard.cnrad.dev/api/1224352196124999711" alt="Discord Presence">
+    <a href="https://discord.com/users/1306544177982472212">
+        <img src="https://lanyard.cnrad.dev/api/1306544177982472212" alt="skiddie">
     </a>
 </p>
