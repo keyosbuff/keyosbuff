@@ -7,7 +7,7 @@
 <h2># Socials</h2>
 <ul>
   <li><a href="https://www.youtube.com/@keyossoftboi" target="_blank">YouTube Channel</a></li>
-  <li><a href="https://discord.com/user/1224352196124999711" target="_blank">Discord Profile</a></li>
+  <li><a href="https://discord.com/user/1306544177982472212" target="_blank">Discord Profile</a></li>
 </ul>
 
 ```py
