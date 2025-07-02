@@ -2,7 +2,7 @@
 
 <h2> # about-me </h2>
 
-- 💗 12y/o - Lifetime Enjoyer
+- 💗 12y/o - skidder
 
 <h2># Socials</h2>
 <ul>
@@ -31,16 +31,11 @@ class Coding(keyos):
 
 ```
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
-
-
-
-
-
-
-
-
+![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
 
 
